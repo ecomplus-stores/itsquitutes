@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".ecom-credits{\ndisplay: none;\n}\n\n.footer__credits{\ndisplay: none;\n}\n\n.ecom-credits{\nvisibility: hidden;\n}\n\n.footer__credits{\nvisibility: hidden;\n}\n\n.header {background:#d7f9ed;\n}\n\n.top-bar {background:#d7f9ed;\n}\n\n@media(min-width: 367px) {\n  #logo {\n    max-height: 100px !important;\n  } \n} \n",
   "html_head": "",
   "html_body": ""
 }
