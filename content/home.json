@@ -85,6 +85,16 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "629bc78dac0cb4200f027c07:categories:Decoração em Glacê Real:/decoracao-em-glace-real",
+      "sort": "sales",
+      "link": "",
+      "title": "Decoração em Glacê Real"
+    },
+    {
       "type": "page-title",
       "title": "Loja demo da E-Com Plus",
       "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
