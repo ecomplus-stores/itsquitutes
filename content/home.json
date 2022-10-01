@@ -41,6 +41,11 @@
           "img": "/img/uploads/maosnam_n.jpg",
           "link": "https://www.itsquitutes.com/maos-na-massa",
           "alt": "Mãos na Massa"
+        },
+        {
+          "img": "/img/uploads/cortareas.jpg",
+          "link": "https://www.itsquitutes.com/cortar-e-assar",
+          "alt": "Cortar e Assar"
         }
       ]
     },
