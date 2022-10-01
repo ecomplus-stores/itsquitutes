@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "It's Quitutes",
+  "meta_description": "Its Quitutes - Os melhores produtos testados e aprovados para você. ",
   "sections": [
     {
       "type": "banner-slider",
@@ -8,19 +8,25 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "img": "/img/uploads/45114-b234f450-4992-4488-8aee-35cf547e3a33.jpg",
+          "link": "",
+          "alt": "",
+          "start": "",
+          "end": "",
+          "mobile_img": ""
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/45114-banner1.png",
+          "alt": "",
+          "mobile_img": ""
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/45114-insta1.png",
+          "link": "https://www.instagram.com/itsquitutesforever/"
         }
       ]
     },
