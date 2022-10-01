@@ -1,7 +1,7 @@
 {
   "domain": "itsquitutes.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#e16978",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/whatsapp_image_2021_02_19_at_2.07.23_pm-removebg-preview.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#7bf2da",
   "icon": "/img/uploads/whatsapp_image_2021_02_19_at_2.07.23_pm-removebg-preview.png",
   "store_id": 45114,
   "description": "Produtos testados e que dão certo!\nEsperamos fazer a diferença no seu dia a dia \n",
