@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Bem-vindos ao nosso novo site!",
+    "link": "",
+    "background": "#7bf2da",
+    "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [
@@ -18,9 +20,16 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/maos-na-massa?Mãos na Massa",
+      "/cortar-e-assar?Cortar e Assar",
+      "/decoracao-em-glace-real?Decoração em Glacê Real",
+      "/acabamento-e-pintura?Acabamento e Pintura",
+      "/embalar?Embalar",
+      "/pre-vendas?Pré-Vendas"
+    ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true,
