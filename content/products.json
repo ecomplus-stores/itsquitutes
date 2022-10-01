@@ -27,6 +27,10 @@
     {
       "type": "product-specifications",
       "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4>Comentários</h4>\n<div class=\"fb-comments\" data-href=\"https://www.itsquitutes.com\" data-width=\"100%\" data-mobile data-numposts=\"30\">\n</div>\n<script>\n    var attr = document.getElementsByClassName(\"fb-comments\");\n    attr[0].setAttribute('data-href', location.href);\n</script>\n<meta property=\"fb:admins\" content=\"&#123;1141388592628473&#125;\"/>\n<meta property=\"fb:admins\" content=\"&#123;100001972397735&#125;\"/>"
     }
   ]
 }
