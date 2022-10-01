@@ -22,9 +22,10 @@
       "/decoracao-em-glace-real?Decoração em Glacê Real",
       "/acabamento-e-pintura?Acabamento e Pintura",
       "/embalar?Embalar",
+      "/eletro?Eletro & Acessórios",
       "/pre-vendas?Pré-Vendas"
     ],
-    "random": 6,
+    "random": 7,
     "full_width": true
   },
   "desktop_megamenu": false,
