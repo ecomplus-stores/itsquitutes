@@ -1,5 +1,6 @@
 {
-  "domain": "itsquitutes.netlify.app",
+  "domain": "itsquitutes.com",
+  "repository": "ecomplus-stores/itsquitutes",
   "currency_symbol": "R$",
   "primary_color": "#e16978",
   "theme": {
