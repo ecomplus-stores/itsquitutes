@@ -35,17 +35,6 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-10-20T03:00:34.483Z",
-      "end": "2022-10-24T02:59:01.929Z",
-      "offers": [
-        "629eb624ac0cb4200f07ebbb",
-        "629ead5cac0cb4200f07de65"
-      ],
-      "notes": "Começou a SUPER PROMOÇÃO DOS SONHOS na IT'S QUITUTES! \nAproveite agora os Descontos desta  Promoções dos Sonhos Imperdíveis.\nCupom mínimo de R$350,00 \nEnvio em até 72h uteis, para itens a pronta entrega."
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
