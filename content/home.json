@@ -35,16 +35,6 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "6352b5ba73321213f8b6dd31:collections:PROMOÇÃO RELÂMPAGO:/relampago",
-      "sort": "views",
-      "title": "Veja mais itens da Promoção dos Sonhos (clique aqui e veja a lista completa)",
-      "link": "https://itsquitutes.com/relampago"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
