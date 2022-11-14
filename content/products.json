@@ -30,7 +30,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h4>Comentários do site - </h4>\n<div class=\"fb-comments\" data-href=\"https://www.itsquitutes.com\" data-width=\"100%\" data-mobile data-numposts=\"30\">\n</div>\n<script>\n    var attr = document.getElementsByClassName(\"fb-comments\");\n    attr[0].setAttribute('data-href', location.href);\n</script>\n\n<meta property=\"og:url\" content=\"URL\" />\n<meta property=\"og:title\" content=\"TITLE\" />\n<meta property=\"og:description\" content=\"DESC\" />\n<meta property=\"og:image\" content=\"IMG\" />"
+      "html": "<h4>Comentários do site</h4>\n<div class=\"fb-comments\" data-href=\"https://www.itsquitutes.com\" data-width=\"100%\" data-mobile data-numposts=\"30\">\n</div>\n<script>\n    var attr = document.getElementsByClassName(\"fb-comments\");\n    attr[0].setAttribute('data-href', location.href);\n</script>\n\n<meta property=\"og:url\" content=\"URL\" />\n<meta property=\"og:title\" content=\"TITLE\" />\n<meta property=\"og:description\" content=\"DESC\" />\n<meta property=\"og:image\" content=\"IMG\" />"
     },
     {
       "type": "related-products",
