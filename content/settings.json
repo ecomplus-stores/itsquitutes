@@ -1,6 +1,5 @@
 {
-  "domain": "itsquitutes.com",
-  "repository": "ecomplus-stores/itsquitutes",
+  "domain": "itsquitutes.com ",
   "currency_symbol": "R$",
   "primary_color": "#e16978",
   "theme": {
@@ -8,6 +7,7 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/itsquitutes",
   "logo": "/img/uploads/unnamed.png",
   "name": "It'sQuitutes",
   "short_name": "It'sQuitutes",
