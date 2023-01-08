@@ -4,13 +4,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/itsrecesso.png"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "breadcrumbs",
