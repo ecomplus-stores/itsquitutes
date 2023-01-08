@@ -9,18 +9,6 @@
       "slides": [
         {
           "start": "",
-          "end": "2023-01-07T15:42:19.049Z",
-          "img": "/img/uploads/itsnatal.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
           "end": "2023-01-05T02:59:29.989Z",
           "img": "/img/uploads/itsrecesso.png"
         }
