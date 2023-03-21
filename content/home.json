@@ -8,18 +8,6 @@
       "full_width": false,
       "slides": [
         {
-          "start": "",
-          "end": "2023-01-05T02:59:29.989Z",
-          "img": "/img/uploads/itsrecesso.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
           "img": "/img/uploads/45114-b234f450-4992-4488-8aee-35cf547e3a33.jpg",
           "link": "",
           "alt": "",
@@ -50,17 +38,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/maosnam_n.jpg",
+          "img": "/img/uploads/01maosnamassa.png",
           "link": "https://www.itsquitutes.com/maos-na-massa",
           "alt": "Mãos na Massa"
         },
         {
-          "img": "/img/uploads/cortareas.jpg",
+          "img": "/img/uploads/02cortareassar.png",
           "link": "https://www.itsquitutes.com/cortar-e-assar",
           "alt": "Cortar e Assar"
         },
         {
-          "img": "/img/uploads/decoracaoemg.jpg",
+          "img": "/img/uploads/03decoracaoglacereal.png",
           "link": "https://www.itsquitutes.com/decoracao-em-glace-real",
           "alt": "Decoração em Glacê Real"
         }
@@ -80,17 +68,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/acabamepint.jpg",
+          "img": "/img/uploads/04acabamentoepintura.png",
           "link": "https://www.itsquitutes.com/acabamento-e-pintura",
           "alt": "Acabamento e Pintura"
         },
         {
-          "img": "/img/uploads/embalar.jpg",
+          "img": "/img/uploads/05embalar.png",
           "link": "https://www.itsquitutes.com/embalar",
           "alt": "Embalar"
         },
         {
-          "img": "/img/uploads/eletro_n.jpg",
+          "img": "/img/uploads/06eletroeacess.png",
           "link": "https://www.itsquitutes.com/eletro",
           "alt": "Eletro"
         }
