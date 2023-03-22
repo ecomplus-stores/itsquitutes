@@ -5,11 +5,11 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/45114-b234f450-4992-4488-8aee-35cf547e3a33.jpg",
-          "link": "",
+          "link": "https://www.youtube.com/@itsquitutesconfeitariafina9626",
           "alt": "",
           "start": "",
           "end": "",
