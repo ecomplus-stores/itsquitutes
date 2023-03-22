@@ -10,6 +10,10 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
+      },
+      {
+        "title": "Blog da Tina",
+        "link": "https://itsquitutes.com/blog"
       }
     ],
     "phone_wpp": true,
