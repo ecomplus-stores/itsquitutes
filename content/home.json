@@ -38,19 +38,22 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/01maosnamassa.png",
+          "img": "/img/uploads/01maosnamassa240.png",
           "link": "https://www.itsquitutes.com/maos-na-massa",
-          "alt": "Mãos na Massa"
+          "alt": "Mãos na Massa",
+          "mobile_img": "/img/uploads/01maosnamassa150.png"
         },
         {
-          "img": "/img/uploads/02cortareassar.png",
+          "img": "/img/uploads/02cortareassar240.png",
           "link": "https://www.itsquitutes.com/cortar-e-assar",
-          "alt": "Cortar e Assar"
+          "alt": "Cortar e Assar",
+          "mobile_img": "/img/uploads/02cortareassar150.png"
         },
         {
-          "img": "/img/uploads/03decoracaoglacereal.png",
+          "img": "/img/uploads/03decoracaoglacereal240.png",
           "link": "https://www.itsquitutes.com/decoracao-em-glace-real",
-          "alt": "Decoração em Glacê Real"
+          "alt": "Decoração em Glacê Real",
+          "mobile_img": "/img/uploads/03decoracaoglacereal150.png"
         }
       ]
     },
@@ -68,19 +71,22 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/04acabamentoepintura.png",
+          "img": "/img/uploads/04acabamentoepintura240.png",
           "link": "https://www.itsquitutes.com/acabamento-e-pintura",
-          "alt": "Acabamento e Pintura"
+          "alt": "Acabamento e Pintura",
+          "mobile_img": "/img/uploads/04acabamentoepintura150.png"
         },
         {
-          "img": "/img/uploads/05embalar.png",
+          "img": "/img/uploads/05embalar240.png",
           "link": "https://www.itsquitutes.com/embalar",
-          "alt": "Embalar"
+          "alt": "Embalar",
+          "mobile_img": "/img/uploads/05embalar150.png"
         },
         {
-          "img": "/img/uploads/06eletroeacess.png",
+          "img": "/img/uploads/06eletroeacess240.png",
           "link": "https://www.itsquitutes.com/eletro",
-          "alt": "Eletro"
+          "alt": "Eletro",
+          "mobile_img": "/img/uploads/06eletroeacess150.png"
         }
       ]
     },
