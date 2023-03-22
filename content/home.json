@@ -125,7 +125,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h1>Blog da Tina</h1>"
+      "html": "<h1><a href=\"https://itsquitutes.com/blog\">Blog da Tina</a></h1>"
     },
     {
       "type": "blog",
