@@ -38,22 +38,22 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/01maosnamassa240.png",
+          "img": "/img/uploads/maos_na_massa350.png",
           "link": "https://www.itsquitutes.com/maos-na-massa",
           "alt": "Mãos na Massa",
-          "mobile_img": "/img/uploads/01maosnamassa150.png"
+          "mobile_img": "/img/uploads/maos_na_massa150.png"
         },
         {
-          "img": "/img/uploads/02cortareassar240.png",
+          "img": "/img/uploads/cortar_e_assar350.png",
           "link": "https://www.itsquitutes.com/cortar-e-assar",
           "alt": "Cortar e Assar",
-          "mobile_img": "/img/uploads/02cortareassar150.png"
+          "mobile_img": "/img/uploads/cortar_e_assar150.png"
         },
         {
-          "img": "/img/uploads/03decoracaoglacereal240.png",
+          "img": "/img/uploads/decoracao_em_glace_real350.png",
           "link": "https://www.itsquitutes.com/decoracao-em-glace-real",
           "alt": "Decoração em Glacê Real",
-          "mobile_img": "/img/uploads/03decoracaoglacereal150.png"
+          "mobile_img": "/img/uploads/decoracao_em_glace_real150.png"
         }
       ]
     },
@@ -71,22 +71,22 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/04acabamentoepintura240.png",
+          "img": "/img/uploads/acabamento_e_pintura350.png",
           "link": "https://www.itsquitutes.com/acabamento-e-pintura",
           "alt": "Acabamento e Pintura",
-          "mobile_img": "/img/uploads/04acabamentoepintura150.png"
+          "mobile_img": "/img/uploads/acabamento_e_pintura150.png"
         },
         {
-          "img": "/img/uploads/05embalar240.png",
+          "img": "/img/uploads/embalar350.png",
           "link": "https://www.itsquitutes.com/embalar",
           "alt": "Embalar",
-          "mobile_img": "/img/uploads/05embalar150.png"
+          "mobile_img": "/img/uploads/embalar150.png"
         },
         {
-          "img": "/img/uploads/06eletroeacess240.png",
+          "img": "/img/uploads/eletros_e_acessorios350.png",
           "link": "https://www.itsquitutes.com/eletro",
           "alt": "Eletro",
-          "mobile_img": "/img/uploads/06eletroeacess150.png"
+          "mobile_img": "/img/uploads/eletro_e_acessorios150.png"
         }
       ]
     },
