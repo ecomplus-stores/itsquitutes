@@ -51,6 +51,12 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/bannerblog.png",
+      "link": "https://itsquitutes.com/blog",
+      "alt": "Visite nosso blog: Produtos e receitas testadas e aprovados com todo o carinho e por quem também põe a mão na massa!"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -141,11 +147,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<h1><a href=\"https://itsquitutes.com/blog\">Blog da Tina</a></h1>"
-    },
-    {
-      "type": "blog",
-      "enabled": true
+      "html": "<!---\n<h1><a href=\"https://itsquitutes.com/blog\">Blog da Tina</a></h1>\n--->"
     },
     {
       "type": "brands-carousel",
