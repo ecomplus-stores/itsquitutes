@@ -5,28 +5,44 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": true,
+      "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/45114-b234f450-4992-4488-8aee-35cf547e3a33.jpg",
+          "img": "/img/uploads/banner_pro.png",
+          "link": "",
+          "alt": "Bem-vindos ao nosso site!",
+          "start": "",
+          "end": "",
+          "mobile_img": ""
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/ban_blog.png",
+          "alt": "Blog da Tina",
+          "mobile_img": "",
+          "link": "https://itsquitutes.com/blog"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/ban_instagram.png",
+          "link": "https://www.instagram.com/itsquitutesforever/",
+          "alt": "Instagram It's Quitutes Forever"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/ban_youtube.png",
           "link": "https://www.youtube.com/@itsquitutesconfeitariafina9626",
-          "alt": "",
-          "start": "",
-          "end": "",
-          "mobile_img": ""
+          "alt": "Youtube It's Quitutes Confeitaria Fina"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/45114-banner1.png",
-          "alt": "",
-          "mobile_img": ""
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/45114-insta1.png",
-          "link": "https://www.instagram.com/itsquitutesforever/"
+          "img": "/img/uploads/ban_facebook.png",
+          "link": "https://www.facebook.com/itsquitutes",
+          "alt": "Facebook It's Quitutes"
         }
       ]
     },
