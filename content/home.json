@@ -8,41 +8,36 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/banner_pro.png",
+          "img": "/img/uploads/1.png",
           "link": "",
-          "alt": "Bem-vindos ao nosso site!",
+          "alt": "",
           "start": "",
           "end": "",
-          "mobile_img": ""
+          "mobile_img": "/img/uploads/1.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/ban_blog.png",
-          "alt": "Blog da Tina",
-          "mobile_img": "",
-          "link": "https://itsquitutes.com/blog"
+          "img": "/img/uploads/2.png",
+          "alt": "",
+          "mobile_img": "/img/uploads/2.png",
+          "link": "https://itsquitutes.com/quarteto-esperto-zam--canetas-ponta-dupla"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/ban_instagram.png",
-          "link": "https://www.instagram.com/itsquitutesforever/",
-          "alt": "Instagram It's Quitutes Forever"
+          "img": "/img/uploads/3.png",
+          "link": "https://itsquitutes.com/estojo-dos-sonhos---zam-smart---10-cores-caneta-ponta-dupla",
+          "alt": "",
+          "mobile_img": "/img/uploads/3.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/ban_youtube.png",
-          "link": "https://www.youtube.com/@itsquitutesconfeitariafina9626",
-          "alt": "Youtube It's Quitutes Confeitaria Fina"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/ban_facebook.png",
-          "link": "https://www.facebook.com/itsquitutes",
-          "alt": "Facebook It's Quitutes"
+          "img": "/img/uploads/4.png",
+          "link": "https://itsquitutes.com/combo-3-in-1---projetor-pico--suporte-articulvel---americanos",
+          "alt": "",
+          "mobile_img": "/img/uploads/4.png"
         }
       ]
     },
