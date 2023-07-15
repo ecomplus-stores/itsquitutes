@@ -24,9 +24,10 @@
           "mobile_img": "/img/uploads/3.png"
         },
         {
-          "start": "",
+          "start": "2023-07-15T01:05:12.109Z",
           "end": "",
-          "img": "/img/uploads/ferias-2023-itsquitutes.jpeg"
+          "img": "/img/uploads/ferias-2023-itsquitutes.jpeg",
+          "mobile_img": "/img/uploads/ferias-2023-itsquitutes.jpeg"
         }
       ]
     },
