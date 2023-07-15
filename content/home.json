@@ -8,6 +8,12 @@
       "full_width": false,
       "slides": [
         {
+          "start": "2023-07-15T01:09:55.750Z",
+          "end": "",
+          "img": "/img/uploads/ferias-2023-itsquitutes.jpeg",
+          "mobile_img": "/img/uploads/ferias-2023-itsquitutes.jpeg"
+        },
+        {
           "img": "/img/uploads/1.png",
           "link": "",
           "alt": "",
@@ -22,12 +28,6 @@
           "link": "https://itsquitutes.com/estojo-dos-sonhos---zam-smart---10-cores-caneta-ponta-dupla",
           "alt": "",
           "mobile_img": "/img/uploads/3.png"
-        },
-        {
-          "start": "2023-07-15T01:09:55.750Z",
-          "end": "",
-          "img": "/img/uploads/ferias-2023-itsquitutes.jpeg",
-          "mobile_img": "/img/uploads/ferias-2023-itsquitutes.jpeg"
         }
       ]
     },
