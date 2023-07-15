@@ -39,7 +39,8 @@
       "type": "responsive-banner",
       "img": "/img/uploads/bannerblog.png",
       "link": "https://itsquitutes.com/blog",
-      "alt": "Visite nosso blog: Produtos e receitas testadas e aprovados com todo o carinho e por quem também põe a mão na massa!"
+      "alt": "Visite nosso blog: Produtos e receitas testadas e aprovados com todo o carinho e por quem também põe a mão na massa!",
+      "mobile_img": "/img/uploads/1.png"
     },
     {
       "type": "banners-grid",
