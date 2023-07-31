@@ -8,12 +8,6 @@
       "full_width": false,
       "slides": [
         {
-          "start": "2023-07-15T01:09:55.750Z",
-          "end": "",
-          "img": "/img/uploads/ferias-2023-itsquitutes.jpeg",
-          "mobile_img": "/img/uploads/ferias-2023-itsquitutes.jpeg"
-        },
-        {
           "img": "/img/uploads/1.png",
           "link": "",
           "alt": "",
@@ -25,6 +19,11 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/3.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2023-07-31-at-10.10.38.jpeg"
         }
       ]
     },
