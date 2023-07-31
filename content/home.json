@@ -8,6 +8,11 @@
       "full_width": false,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2023-07-31-at-10.10.38.jpeg"
+        },
+        {
           "img": "/img/uploads/1.png",
           "link": "",
           "alt": "",
@@ -19,11 +24,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/3.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/whatsapp-image-2023-07-31-at-10.10.38.jpeg"
         }
       ]
     },
