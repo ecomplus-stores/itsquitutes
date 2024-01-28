@@ -18,6 +18,12 @@
           "end": "",
           "img": "/img/uploads/feriaspng.png",
           "mobile_img": "/img/uploads/feriaspng.png"
+        },
+        {
+          "start": "2024-01-27T05:00:00.000Z",
+          "end": "2024-02-29T05:00:00.000Z",
+          "mobile_img": "/img/uploads/feriaspng.png",
+          "img": "/img/uploads/feriaspng.png"
         }
       ]
     },
