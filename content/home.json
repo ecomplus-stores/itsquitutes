@@ -8,11 +8,6 @@
       "full_width": false,
       "slides": [
         {
-          "start": "2024-01-27T21:27:56.893Z",
-          "end": "2024-02-29T05:00:00.000Z",
-          "img": "/img/uploads/ferias.jpeg"
-        },
-        {
           "start": "",
           "end": "",
           "img": "/img/uploads/1.png",
@@ -21,13 +16,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/ferias.jpeg"
-        },
-        {
-          "start": "",
-          "end": "2024-02-29T05:00:00.000Z",
-          "mobile_img": "/img/uploads/ferias.jpeg",
-          "img": "/img/uploads/ferias.jpeg"
+          "img": "/img/uploads/feriaspng.png",
+          "mobile_img": "/img/uploads/feriaspng.png"
         }
       ]
     },
