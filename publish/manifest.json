@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f5c6ea5c151643634532f5b5db9fc94a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.8e3231da294de450d0c3aa756c1f5581.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.3ba820d7196aed3982ad733a19358da0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.7a3de6288d50943d85878d2f0d18f360.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.1a8b22cf2dd03cb3f8d6cef0fbe6343a.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "It'sQuitutes",
+  "short_name": "It'sQuitutes",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Produtos testados e que dão certo!\nEsperamos fazer a diferença no seu dia a dia \n",
+  "background_color": "#ffffff",
+  "theme_color": "#e16978"
+}
