@@ -4250,13 +4250,13 @@
     </url>
   
     <url>
-      <loc>https://itsquitutes.com /posts/biscoito-de-cacau-real</loc>
+      <loc>https://itsquitutes.com /posts/biscoito-de-especiarias</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://itsquitutes.com /posts/biscoito-de-especiarias</loc>
+      <loc>https://itsquitutes.com /posts/biscoito-de-cacau-real</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -4328,25 +4328,25 @@
     </url>
   
     <url>
-      <loc>https://itsquitutes.com /posts/receita-de-thumbprint-cookies</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://itsquitutes.com /posts/receita-de-glace-caseirinho-dos-sonhos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://itsquitutes.com /posts/tuiles</loc>
+      <loc>https://itsquitutes.com /posts/receita-de-thumbprint-cookies</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://itsquitutes.com /posts/salgado-de-cerveja</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://itsquitutes.com /posts/tuiles</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
