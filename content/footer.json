@@ -26,8 +26,8 @@
       "alt": "Secure connection"
     },
     {
-      "src": "/img/uploads/rsw_1280-ezgif.com-webp-to-jpg-converter.jpg",
-      "link": "https://maps.app.goo.gl/HDN4YeN17cLgPG238"
+      "src": "",
+      "link": ""
     }
   ],
   "payment_methods": {
@@ -44,6 +44,8 @@
     "mastercard": true,
     "citibank": false,
     "mais": false,
+    "pix": true,
+    "amex": true,
     "itau": true
   },
   "credits": ""
