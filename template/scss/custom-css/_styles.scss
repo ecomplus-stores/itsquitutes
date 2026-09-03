@@ -10,3 +10,14 @@
 .order-info__toggle {
     display: none !important;
 }
+
+.shipping-calculator-notice {
+    margin-top: 0.75rem;
+    padding: 0.625rem 0.875rem;
+    border-left: 3px solid var(--warning);
+    border-radius: var(--border-radius);
+    background-color: rgba(var(--warning-rgb), 0.08);
+    color: var(--body-color);
+    font-size: var(--font-size-sm);
+    line-height: 1.45;
+}
